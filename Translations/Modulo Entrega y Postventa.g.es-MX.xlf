@@ -1,0 +1,750 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="es-MX" original="Modulo Entrega y Postventa.g.xlf" tool-id="DTS" product-name="n/a" product-version="n/a" build-num="n/a" request-id="87212">
+    <header>
+      <tool tool-id="DTS" tool-name="DTS" tool-version="1.0.175.318" tool-company="Microsoft Corporation" />
+    </header>
+    <body>
+      <group id="body">
+        <trans-unit id="Table 1980901626 - Field 218693787 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Buyer No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nº comprador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Buyer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 311528218 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Buyer Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre comprador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Buyer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 3609111399 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>No. Contrato</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No. Contrato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Contract No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 3609111399 - Method 2126772001 - NamedType 3246209205" translate="yes" xml:space="preserve">
+          <source>Este No. Contrato ya se utiliza en el No. Doc %1.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Este Nº Contrato ya se utiliza en el Nº Doc .%1.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Contract No. - Method OnValidate - NamedType ExisteErr</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 3561154705 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Moneda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 3192175264 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 6490180 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Down Payment</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Pago ppal.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Down Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 166038250 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">N.º de factura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 2311232812 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Job Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre proyecto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Job Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 4200184881 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 3110683084 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Property Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre de propiedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Property Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 1608633268 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Property No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nº bien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Property No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 424783592 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Property Value</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Valor de propiedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Property Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 490050973 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Representative</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Representante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Representative - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 2200007144 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Representative Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre representante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Representative Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 788224838 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Representative User</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Usuario representante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field RepresentativeUser - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 4252633815 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sales person</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Vendedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Sales person - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1980901626 - Field 3765202864 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Firma del cliente</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Firma del cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cabecera Documento Entrega - Field Signature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>CabeceraDocEntregaHistorico</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Cabecera 1500</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 218693787 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Buyer No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nº comprador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Buyer - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 311528218 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Buyer Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre comprador</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Buyer Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 3609111399 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>No. Contrato</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">No. Contrato</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Contract No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 3561154705 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Currency</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Moneda</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Currency - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 3192175264 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Fecha</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Date - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 6490180 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Down Payment</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Pago ppal.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Down Payment - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 2950845476 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Estado</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Estado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Estado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 166038250 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Invoice No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">N.º de factura</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Invoice No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 2311232812 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Job Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre proyecto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Job Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 4200184881 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">No.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 3110683084 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Property Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre de propiedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Property Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 1608633268 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Property No.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nº bien</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Property No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 424783592 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Property Value</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Valor de propiedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Property Value - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 490050973 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Representative</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Representante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Representative - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 2200007144 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Representative Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre representante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Representative Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 788224838 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Representative User</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Usuario representante</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field RepresentativeUser - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 4252633815 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Sales person</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Vendedor</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Sales person - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2035739652 - Field 3765202864 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Firma del cliente</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Firma del cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CabeceraDocEntregaHistorico - Field Signature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273439667 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>CaracteristicaPropiedadLine</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Propiedad lín. cons.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CaracteristicaPropLineHist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273439667 - Field 1890871292 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CaracteristicaPropLineHist - Field Característica - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273439667 - Field 2615446671 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Descripción</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Descripción</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CaracteristicaPropLineHist - Field Descripción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273439667 - Field 1165969121 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>LineNo</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nº línea</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CaracteristicaPropLineHist - Field LineNo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4273439667 - Field 1608633268 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Code</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Código</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table CaracteristicaPropLineHist - Field Property No. - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903652299 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>CuestionarioLineHist</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CuestionarioLineHist</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CuestionarioLineHist - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3903652299 - Control 3461834954 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the profile question or answer.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica la pregunta o la respuesta del perfil.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CuestionarioLineHist - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3903652299 - Control 1878130204 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies whether the entry is a question or an answer.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica si la entrada es una pregunta o una respuesta.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CuestionarioLineHist - Control Type - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2003915798 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>CuestionarioLineListPart</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">CuestionarioLineListPart</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CuestionarioLineListPart - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2003915798 - Control 1417232546 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Check field.</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Especifica el valor del campo Cheque.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CuestionarioLineListPart - Control Check - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 2003915798 - Control 3461834954 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Description field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Descripción.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page CuestionarioLineListPart - Control Description - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Documento Entrega de Propiedad</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Documento Entrega de Propiedad</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 2556031541 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Firma del cliente</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Firma del cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control DSSignature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 2445482498 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 218693787 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Buyer No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del Nº int. int. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Buyer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 311528218 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Buyer Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre incl. cont.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Buyer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 3561154705 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Divisa.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 3192175264 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Fecha.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 2311232812 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre proyecto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Job Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 2311232812 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Job Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre proyecto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Job Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 4200184881 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Contract No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º contrato. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 3110683084 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre proyecto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Property Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 1608633268 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º de propiedad. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Property No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 424783592 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property Value field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Valor de propiedad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Property Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 490050973 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Representative field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Representante.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Representative - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Control 2200007144 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Representative Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre representante.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Control Representative Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 1623753553 - Action 1812229969 - Method 1377591017 - NamedType 2175731681" translate="yes" xml:space="preserve">
+          <source>¿Desea abrir el documento registrado?</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">¿Desea abrir el documento registrado?</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Documento Entrega de Propiedad - Action Registrar - Method OnAction - NamedType ConfirmStr</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>DSNWizardCuestionario</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">DSNDeCuestionario</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 4195982851 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActual - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 2886938816 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActua0 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 3830523324 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActual1 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 4105418902 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 173252645 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActual2 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 3467722285 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual3 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 162954651 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActua4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 279239200 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual4 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 800651268 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActua5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 3936509879 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual5 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 1438347885 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActua6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 1554632434 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual6 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 2076044502 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActua7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 916935817 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual7 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 1100529839 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Área</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Área</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control AreaActua8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 2023420028 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Característica</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Característica</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control CaractActual8 - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 252140130 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Respuestas</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Respuestas</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control asd - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 2176757286 - Property 1968111052" translate="yes" xml:space="preserve">
+          <source>Terminado</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Terminado</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control Confirm - Property InstructionalText</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Control 2176757286 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Cuestionario Exitoso!</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">¡Cuestionario Exitoso!</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Control Confirm - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Action 742034285 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Atrás</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Atrás</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Action Back - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Action 2667510389 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Terminar</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Terminar</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Action Finish - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3134982365 - Action 1235620153 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Siguiente</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Siguiente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page DSNWizardCuestionario - Action Next - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Lista Histórico Documento Entrega Propiedades</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lista Histórico Documento Entrega Propiedades</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 311528218 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Buyer Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre incl. cont.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Buyer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 3192175264 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Fecha.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 2311232812 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre proyecto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Job Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 2311232812 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Job Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre proyecto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Job Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 4200184881 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Contract No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º contrato. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 3110683084 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre de propiedad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Property Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 1608633268 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º de propiedad. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Property No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 424783592 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property Value field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Valor de propiedad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Property Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 4116379189 - Control 4252633815 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales person field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Vendedor.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page HistListaEntrega - Control Sales person - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Histórico Documentos Entrega</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Histórico Documentos Entrega</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 2556031541 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Firma del cliente</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Firma del cliente</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control DSSignature - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 2445482498 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">General</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 218693787 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Buyer No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del Nº int. int. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Buyer - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 311528218 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Buyer Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre incl. cont.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Buyer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 3561154705 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Currency field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Divisa.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Currency - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 3192175264 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Fecha.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 2311232812 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre proyecto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Job Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 2311232812 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Job Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre proyecto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Job Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 4200184881 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Contract No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º contrato. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 3110683084 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre proyecto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Property Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 1608633268 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º de propiedad. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Property No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 424783592 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property Value field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Valor de propiedad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Property Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 490050973 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Representative field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Representante.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Representative - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 3658565521 - Control 2200007144 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Representative Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre representante.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Histórico Documentos Entrega - Control Representative Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Lista Documento Entrega Propiedades</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Lista Documento Entrega Propiedades</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 311528218 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Buyer Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre incl. cont.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Buyer Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 3192175264 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Date field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Fecha.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Date - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 2311232812 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Job Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre proyecto.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Job Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 2311232812 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>Job Name</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Nombre proyecto</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Job Name - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 4200184881 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Contract No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º contrato. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 3110683084 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property Name field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Nombre de propiedad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Property Name - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 1608633268 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property No. field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del n.º de propiedad. Campo.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Property No. - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 424783592 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Property Value field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Valor de propiedad.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Property Value - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="Page 997589221 - Control 4252633815 - Property 1295455071" translate="yes" xml:space="preserve">
+          <source>Specifies the value of the Sales person field.</source>
+          <target state="needs-review-translation" state-qualifier="x-mt-cache">Especifica el valor del campo Vendedor.</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page ListaDocEntregaPropiedades - Control Sales person - Property ToolTip</note>
+        </trans-unit>
+        <trans-unit id="PageExtension 1449267044 - Action 3494236343 - Property 2879900210" translate="yes" xml:space="preserve">
+          <source>ListaDocEntrega</source>
+          <target state="needs-review-translation" state-qualifier="mt-suggestion">Lista 1500</target>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">PageExtension DSNJob Project Manager RC Ext - Action ListaDocEntrega - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

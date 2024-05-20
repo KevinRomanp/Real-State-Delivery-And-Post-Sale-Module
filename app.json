@@ -1,0 +1,45 @@
+{
+  "id": "8a69af0e-d1dc-4725-9969-1d70da3a0e81",
+  "name": "Real State Delivery & Post Sale Module",
+  "publisher": "Kevin Roman",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "65c90c67-05b5-430e-864e-f8acfbbea9ab",
+      "name": "RealEstate",
+      "publisher": "Kevin Roman",
+      "version": "0.0.0.33"
+    },
+    {
+      "id": "42271198-cfa6-4082-8cb7-821f6e2ab22d",
+    "name": "RealStateExt",
+    "publisher": "Kevin Roman",
+    "version": "1.0.0.0"}
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 52100,
+      "to": 52149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": false,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  },
+  "runtime": "12.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ]
+}   
